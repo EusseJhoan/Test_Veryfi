@@ -1,0 +1,5 @@
+# .gitignore
+app_secrets.py
+batch_files.txt
+verifyAPI/
+__pycache__/
