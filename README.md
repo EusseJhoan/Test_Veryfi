@@ -1,6 +1,6 @@
 # Automated Invoice Data Extraction System
 
-A robust Python-based solution for batch processing invoices, extracting structured data via OCR.
+A Python-based solution for batch processing invoices, extracting structured data via OCR.
 
 
 ## Prerequisites 
