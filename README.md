@@ -29,7 +29,7 @@ A Python-based solution for batch processing invoices, extracting structured dat
     API_KEY = "your_api_key"
     ```
 
-3.  Create a `batch_files.txt` inside  `docs` directory with the file listing the relative paths of the PDFs you want to process:
+3.  Create a `batch_files.txt` inside  main directory with the file listing the relative paths of the PDFs you want to process:
 
     ```text
     docs/invoice_001.pdf
